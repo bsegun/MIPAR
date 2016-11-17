@@ -1,0 +1,11 @@
+{
+    "application":"9",
+    "description":"Brain Extraction", 
+    "input_files": [{
+        "name":"13501989_10204928844539536_3160017905849634289_n.zip"
+    }],
+    "output_files": [{
+        "name":"13501989_10204928844539536_3160017905849634289_n.tar.gz"
+        
+    }]
+}

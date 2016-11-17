@@ -1,0 +1,11 @@
+{
+    "application":"9",
+    "description":"Brain Extraction", 
+    "input_files": [{
+        "name":"new.zip"
+    }],
+    "output_files": [{
+        "name":"new.tar.gz"
+        
+    }]
+}

@@ -1,0 +1,11 @@
+{
+    "application":"9",
+    "description":"Brain Extraction", 
+    "input_files": [{
+        "name":"sample_MRI.zip"
+    }],
+    "output_files": [{
+        "name":"mipar-output.tar.gz"
+        
+    }]
+}
